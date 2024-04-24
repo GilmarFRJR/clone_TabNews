@@ -1,6 +1,5 @@
 function Home() {
-    return <h1>Ain pai para</h1>
+  return <h1>Ain pai para</h1>;
 }
 
-
-export default Home
+export default Home;
